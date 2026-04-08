@@ -116,7 +116,7 @@ a{
     height: 60vh;
     padding: 20px;
     margin-top: 20px;
-   background-image: linear-gradient(rgba(255, 255, 0, 0.249),rgba(255, 68, 0, 0.447)),url(./img/pic2.jpg);
+   background-image: linear-gradient(rgba(255, 255, 0, 0.249),rgba(255, 68, 0, 0.447)),url(../img/class.jpg);
     background-position: center;
     background-size: cover;
 }
