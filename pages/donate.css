@@ -70,7 +70,7 @@ a{
 }
 
 .donate {
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(245, 75, 1, 0.6)),url("/img/donate.jpg");
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(245, 75, 1, 0.6)),url("../img/donate.jpg");
   background-size: cover;
   background-position: center;
   padding: 80px;

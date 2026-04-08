@@ -77,7 +77,7 @@ a{
 .becomev{
     width: 90%;
     height: 60vh;
-   background-image: linear-gradient(rgba(255, 255, 255, 0.537), rgba(255, 68, 0, 0.543)), url(/img/volunteer.jpg);
+   background-image: linear-gradient(rgba(255, 255, 255, 0.537), rgba(255, 68, 0, 0.543)), url(../img/volunteer.jpg);
    background-position: center;
    background-size: cover;
    color: white;
