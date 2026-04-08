@@ -75,8 +75,8 @@ a{
 
 /* HERO */
 .gallery-hero {
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url("/img/ban1.jpg");
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(247, 50, 1, 0.6)),
+              url("../img/ban1.jpg");
   background-size: cover;
   background-position: center;
   color: rgb(252, 251, 251);
