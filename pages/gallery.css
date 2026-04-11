@@ -107,11 +107,15 @@ a{
   height: 250px;
   object-fit: cover;
   transition: 0.3s;
+  filter: grayscale(100%);
 }
 
 /* HOVER EFFECT */
 .gallery-item:hover img {
   transform: scale(1.1);
+  filter: grayscale(0%);
+  transition: 0.3s ease-in;
+  
 }
 
 footer{
